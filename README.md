@@ -23,14 +23,6 @@ An interactive **Streamlit dashboard** for analyzing and visualizing personal ex
 
 ---
 
-## 🖥️ Demo
-
-![Dashboard Preview](screenshot.png)
-
-*Note: Add a screenshot of your dashboard here*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -41,3 +33,4 @@ An interactive **Streamlit dashboard** for analyzing and visualizing personal ex
 ### Installation
 
 1. **Clone the repository**
+
